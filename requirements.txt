@@ -1,0 +1,11 @@
+streamlit
+llama-index
+llama-index-vector-stores-chroma
+chromadb
+llama-index-embeddings-openai
+llama-index-llms-openai
+python-dotenv
+pypdf
+docx2txt
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
